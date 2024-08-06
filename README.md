@@ -52,7 +52,7 @@ Implemented login functionality using OAuth 2.0. This allows users to log in wit
 - Updated UI to include login button
 
 This change addresses the following issues:
-- [Issue #123](https://example.com/issues/123)
+- [YGM-47: [Android] Три состояния шторки](https://tracker.yandex.ru/YGM-47)
 ```
 
 ## Примечание 
